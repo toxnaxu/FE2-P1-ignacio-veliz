@@ -11,3 +11,7 @@ II) CSS:
         1) Prompts: "Añadir sección dividido en cuadros/cubos para excibir los productos (notebooks o accesorios para este), y a su vez caracteristicas, esp técnicas, posibles usos, beneficios"
         2) Proposito: Agrega información extra para el usuario con buen diseño
         3) Utilidad: Util
+
+        1) Prompts: "Adaptar sitio web a smartphones, evitando problemas en el texto."
+        2) Proposito: Los usuarios de celulares pueden navegar de manera comoda en la página.
+        3) Utilidad:  Util
