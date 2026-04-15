@@ -1,9 +1,13 @@
 I) HTML:
-        1) Prompts: Estructura básica de una página HTML, junto con secciones.
+        1) Prompts: "Estructura básica de una página HTML, junto con secciones."
         2) Proposito: Crear sintaxis basica html
         3) Utilidad: Util
 
 II) CSS:
         1) Prompts: "Al archivo index.html crear un diseño más moderno, distribuyendo el contenido con margenes"
         2) Proposito: Darle un diseño mejor y ordenado al sitio.
+        3) Utilidad: Util
+
+        1) Prompts: "Añadir sección dividido en cuadros/cubos para excibir los productos (notebooks o accesorios para este), y a su vez caracteristicas, esp técnicas, posibles usos, beneficios"
+        2) Proposito: Agrega información extra para el usuario con buen diseño
         3) Utilidad: Util
