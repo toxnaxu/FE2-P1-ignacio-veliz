@@ -3,6 +3,10 @@ I) HTML:
         2) Proposito: Crear sintaxis basica html
         3) Utilidad: Util
 
+        1) Prompts: "Agregar sección "ficha de producto" donde se organice de forma de listado con 3 atributos técnicos que llame la atención del cliente, debe verse ordenado dejando espacio correcto. Tambien agregar imagenes para complementar en la sección de productos."
+        2) Proposito: Mejora de información en el sitio web para clientes.
+        3) Utilidad: Muy util
+
 II) CSS:
         1) Prompts: "Al archivo index.html crear un diseño más moderno, distribuyendo el contenido con margenes"
         2) Proposito: Darle un diseño mejor y ordenado al sitio.
@@ -15,3 +19,7 @@ II) CSS:
         1) Prompts: "Adaptar sitio web a smartphones, evitando problemas en el texto."
         2) Proposito: Los usuarios de celulares pueden navegar de manera comoda en la página.
         3) Utilidad:  Util
+
+        1) Prompts: "Podrias agregarle a los bordes marcados y que resalte más. Talvez las viñetas deberian estar en tipo cubo"
+        2) Proposito: Remarcar bordes de secciones.
+        3) Utilidad: Util.
