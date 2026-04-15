@@ -1,4 +1,3 @@
-<!-- Estructura básica de una página HTML, espacio para descripción y una sección destacada -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -8,26 +7,40 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>TecnoCL</h1>
-        <nav>
-            <ul>
-                <li><a href="#descripcion">Descripción</a></li>
-                <li><a href="#destacado">Destacado</a></li>
-            </ul>
-        </nav>
-    </header>
+    <div class="page-shell">
+        <header class="site-header">
+            <div class="brand">
+                <span class="logo">T</span>
+                <div>
+                    <h1>TecnoCL</h1>
+                    <p>Tu espacio para tecnología premium</p>
+                </div>
+            </div>
+            <nav class="site-nav">
+                <a href="#descripcion">Descripción</a>
+                <a href="#destacado">Destacado</a>
+            </nav>
+        </header>
 
-    <section id="descripcion">
-        <h2>Descripción</h2>
-        <p>TecnoCL es una plataforma dedicada a la venta de notebook y accesorios</p>
-    </section>
+        <main>
+            <section id="descripcion" class="panel panel--light">
+                <div class="panel-content">
+                    <h2>Descripción</h2>
+                    <p>TecnoCL es una plataforma dedicada a la venta de notebooks y accesorios de tecnología. Nuestro objetivo es ofrecer productos seleccionados con un servicio ágil y moderno.</p>
+                </div>
+            </section>
 
-    <section id="destacado">
-        <h2>Destacado</h2>
-        <p>En esta sección encontrarás los artículos más relevantes y las últimas tendencias en tecnología.</p>
-    </section>
+            <section id="destacado" class="panel panel--accent">
+                <div class="panel-content">
+                    <h2>Destacado</h2>
+                    <p>En esta sección encontrarás los artículos más relevantes y las últimas tendencias en tecnología, desde notebooks hasta periféricos inteligentes.</p>
+                </div>
+            </section>
+        </main>
 
-    <footer>
-        <p>&copy; 2024 TecnoCL. Todos los derechos reservados.</p>
-    </footer>
+        <footer class="site-footer">
+            <p>&copy; 2024 TecnoCL. Todos los derechos reservados.</p>
+        </footer>
+    </div>
+</body>
+</html>
